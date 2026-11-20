@@ -1,0 +1,6 @@
+{
+  "name": "KetLab",
+  "description": "Interactive quantum circuit workbench for exploring quantum gates, step-by-step state vector matrix transformations, Bloch spheres, and classic algorithms including Grover's search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
